@@ -14,4 +14,4 @@ Inconsistent date formats
 
 The goal was to standardize and prepare the data for future analysis and reporting.
 
-The original database is 'club.csv' and the cleaned one is 'limp_final.csv'
+The original database is 'club.csv' and the cleaned one is 'club_final.csv'
